@@ -1,6 +1,5 @@
 ## The data
-A description of the data analyzed by the script in this repo can be found here:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+A description of the data analyzed by the script in this repo can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones ).
 
 The data was collected from accelerometers from the Samsung Galaxy S smartphone.
 
